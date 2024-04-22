@@ -1,6 +1,6 @@
 export default {
   port: '1337',
-  dbUri: "mongodb://localhost:27017/rest-api-tutorial",
+  dbUri: "mongodb://localhost:27017/app-store-api",
   saltWorkFactor: 10,
   accessTokenTtll: '15m',
   refreshTokenTtll: '1y',
